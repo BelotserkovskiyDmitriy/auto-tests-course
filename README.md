@@ -1,2 +1,3 @@
 # auto-tests-course
-homework
+Homework
+Automated testing with Selenium+Python
